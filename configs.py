@@ -10,11 +10,11 @@ class Config(object):
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5887050212:AAGpkO2oZHREoSFkg4JHKw79jY0ZVcA7eas")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "Cvmoviesv2bot")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOHABu8RbmmSc0iQByX1HaPwlyuNE-uZzKlVeFwWOaIlE5xvT1sxFlRU9lwXc2TPw6WLWcUSeETa0ourLAr8XvLfjdrgOcaRB4tis4FoQcZdumx-F03yysYyZdO3RAYDmCaMRhmX5OeLoZaPvOfFsGB2l9sBMbS5-f1r0UtPYGqGFHPB_zMyvjQKtifggsATkvxQUfL96cEliQ3Yfm7nMJzmBrydN1Zq7s9xGUKgEusWNP26lQo5TnFgqgcw7BjoUlPZXdOXLZVeN56qa2-2_4pvDThViWtGMbnP6F2Spfyu4cl69uitqn_36ZkPdAdtqK-JlbFqcrwXXHroHuYAR_4W7RKA=")
-    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001558716347")) 
-    BOT_USERNAME = os.getenv("BOT_USERNAME", "cynitemdiskbot")
-    BOT_OWNER = int(os.getenv("BOT_OWNER", "1883570185"))
-#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "cyniteSupport")
-    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "cynitebackup")
+    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001869378791")) 
+    BOT_USERNAME = os.getenv("BOT_USERNAME", "Cvmoviesv2bot")
+    BOT_OWNER = int(os.getenv("BOT_OWNER", "5476137767"))
+#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Mrvcbro")
+    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "cvmoviesnew")
 #    GROUP_USERNAME = os.getenv("GROUP_USERNAME")
     START_MSG = os.getenv("START_MSG", """**Hᴇʏ {}, 
 
