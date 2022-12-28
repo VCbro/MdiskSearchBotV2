@@ -8,7 +8,7 @@ class Config(object):
     API_ID = int(os.getenv("API_ID", "12139762"))
     API_HASH = os.getenv("API_HASH", "c03b4f089a7d7a30b728e5b473a73316")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5887050212:AAGpkO2oZHREoSFkg4JHKw79jY0ZVcA7eas")
-    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdiskcynitebot")
+    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "Cvmoviesv2bot")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOHABu8RbmmSc0iQByX1HaPwlyuNE-uZzKlVeFwWOaIlE5xvT1sxFlRU9lwXc2TPw6WLWcUSeETa0ourLAr8XvLfjdrgOcaRB4tis4FoQcZdumx-F03yysYyZdO3RAYDmCaMRhmX5OeLoZaPvOfFsGB2l9sBMbS5-f1r0UtPYGqGFHPB_zMyvjQKtifggsATkvxQUfL96cEliQ3Yfm7nMJzmBrydN1Zq7s9xGUKgEusWNP26lQo5TnFgqgcw7BjoUlPZXdOXLZVeN56qa2-2_4pvDThViWtGMbnP6F2Spfyu4cl69uitqn_36ZkPdAdtqK-JlbFqcrwXXHroHuYAR_4W7RKA=")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001558716347")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "cynitemdiskbot")
